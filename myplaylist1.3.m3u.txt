@@ -145,6 +145,9 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 group-title="General",Madani Channel Bangla
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8#skym3u.dev
 
+#EXTINF:-1 group-title="General",Madani Channel Bangla HD
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
 #EXTINF:-1 group-title="General",Madina Live
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8#fb:M3U_World_4K
 
