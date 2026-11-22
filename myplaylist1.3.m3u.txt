@@ -9,6 +9,9 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="General",Btv News HD
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
 
+#EXTINF:-1 group-title="General",Channel 24
+https://www.youtube.com/watch?v=WMlDSbd6uB0
+
 #EXTINF:-1 group-title="General",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
