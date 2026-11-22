@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="General",Btv
-https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 
 #EXTINF:-1 group-title="General",Btv Chattrogram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
