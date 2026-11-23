@@ -18,6 +18,9 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 group-title="General",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#skym3u.dev
 
+#EXTINF:-1 group-title="General",Channel 24
+https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
+
 #EXTINF:-1 group-title="General",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9#fb:M3U_World_4K
 
@@ -124,11 +127,17 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
 #EXTINF:-1 group-title="General",Mohona TV
 https://playztv-apps.pages.dev/mohona-tv/index.m3u8#fb:M3U_World_4K
 
+#EXTINF:-1 group-title="General",Channel 9
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
+
 #EXTINF:-1 group-title="General",Nexus Television
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8#fb:M3U_World_4K
 
 #EXTINF:-1 group-title="General",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="General",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="General",Time Television
 https://cdn.streamcast.xyz/timetv/index.m3u8#fb:M3U_World_4K
@@ -238,4 +247,5 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 group-title="Sports",Sports First TV
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8#skym3u.dev
+
 
