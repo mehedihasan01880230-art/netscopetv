@@ -40,7 +40,7 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#tawfique-iptv
 
 #EXTINF:-1 group-title="General",Masranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8#fb:M3U_World_4K
 
 #EXTINF:-1 group-title="General",Nagorik TV
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8#tawfique-iptv
@@ -247,5 +247,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 group-title="Sports",Sports First TV
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8#skym3u.dev
+
 
 
